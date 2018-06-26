@@ -1,0 +1,49 @@
+{
+    "status": "true",
+    "result": {
+        "message": [
+                    {
+                    "message_id": "1",
+                    "user_image": "http://lh3.googleusercontent.com/-BG9UyZRAFpM/AAAAAAAAAAI/AAAAAAAAAMA/f4_kDUmRFjA/photo.jpg?sz=50",
+                    "user_name": "Mani kandan",
+                    "message": "Hai How are you you are welcome",
+                    "message_time": "123212321"
+                    },
+                    {
+                    "message_id": "2",
+                    "user_image": "http://fantacyscript.com/beta/media/avatars/thumb350/1404569827.jpg",
+                    "user_name": "Hita soft",
+                    "message": "Hai How are you you are welcome",
+                    "message_time": "123212321"
+                    },
+                    {
+                    "message_id": "3",
+                    "user_image": "http://fantacyscript.com/dev/media/avatars/thumb150/1387607652.jpg",
+                    "user_name": "avarunbe",
+                    "message": "Hai How are you you are welcome Hai How are you you are welcome Hai How are you you are welcome Hai How are you you are welcome",
+                    "message_time": "123212321"
+                    },
+                    {
+                    "message_id": "4",
+                    "user_image": "http://lh3.googleusercontent.com/-BG9UyZRAFpM/AAAAAAAAAAI/AAAAAAAAAMA/f4_kDUmRFjA/photo.jpg?sz=100",
+                    "user_name": "btmani",
+                    "message": "Hai How are you you are welcome",
+                    "message_time": "123212321"
+                    },
+                    {
+                    "message_id": "5",
+                    "user_image": "http://fantacyscript.com/beta/media/avatars/thumb350/1404569827.jpg",
+                    "user_name": "HTS",
+                    "message": "Hai How are you you are welcome",
+                    "message_time": "123212321"
+                    },
+                    {
+                    "message_id": "6",
+                    "user_image": "http://fantacyscript.com/dev/media/avatars/thumb150/1387607652.jpg",
+                    "user_name": "Welcome",
+                    "message": "Hai How are you you are welcome",
+                    "message_time": "123212321"
+                    }
+                    ]
+    }
+}

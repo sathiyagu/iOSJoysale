@@ -1,0 +1,29 @@
+{
+  "status": "true",
+  "result": [
+    {
+      "user_id": "2",
+      "user_name": "saravana235",
+      "full_name": "Saravana",
+      "location": "Madurai",
+      "status": "follow",
+      "user_image": "http://joysalescript.com/beta/user/resized/150/6011_babyjpg"
+    },
+    {
+      "user_id": "4",
+      "user_name": "demo",
+      "full_name": "Demo User",
+      "status": "unfollow",
+      "location": "Madurai",
+      "user_image": "http://joysalescript.com/beta/user/resized/150/342_2195219144"
+    },
+    {
+      "user_id": "5",
+      "user_name": "suri",
+      "full_name": "Suriya raj",
+      "status": "unfollow",
+      "location": "Madurai",
+      "user_image": "http://joysalescript.com/beta/user/resized/150/9185_imagespng"
+    }
+  ]
+}

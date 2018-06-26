@@ -1,0 +1,9 @@
+{
+  "status": "true",
+  "result": {
+    "user_id": "2",
+    "user_name": "demo",
+    "full_name": "Demo",
+    "user_img": "http://fancyclone.net/dev/media/items/thumb150/1396253517.jpg"
+  }
+}

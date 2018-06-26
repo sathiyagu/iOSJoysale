@@ -1,0 +1,32 @@
+{
+  "status": "true",
+  "result": {
+    "promotion": [
+      {
+        "promotion_id": "27",
+        "promotion_name": "Electronics",
+        "date": "27 June 2016"
+      },
+      {
+        "promotion_id": "27",
+        "promotion_name": "Fashion and Accessories",
+        "date": "27 June 2016"
+      },
+      {
+        "promotion_id": "27",
+        "promotion_name": "Givig away",
+        "date": "27 June 2016"
+      },
+      {
+        "promotion_id": "27",
+        "promotion_name": "Pets Supplies",
+        "date": "27 June 2016"
+      },
+      {
+        "promotion_id": "27",
+        "promotion_name": "Appliances",
+        "date": "27 June 2016"
+      }
+    ]
+  }
+}

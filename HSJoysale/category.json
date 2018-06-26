@@ -1,0 +1,32 @@
+{
+  "status": " true",
+  "result": {
+    "category": [
+      {
+        "category_id": "27",
+        "category_name": "Electronics",
+        "category_img": "http://fancyclone.net/dev/media/items/thumb150l/1396253517.jpg"
+      },
+      {
+        "category_id": "27",
+        "category_name": "Fashion and Accessories",
+        "category_img": "http://fancyclone.net/dev/media/items/thumb150l/1396253517.jpg"
+      },
+      {
+        "category_id": "27",
+        "category_name": "Givig away",
+        "category_img": "http://fancyclone.net/dev/media/items/thumb150l/1396253517.jpg"
+      },
+      {
+        "category_id": "27",
+        "category_name": "Pets Supplies",
+        "category_img": "http://fancyclone.net/dev/media/items/thumb150l/1396253517.jpg"
+      },
+      {
+        "category_id": "27",
+        "category_name": "Appliances",
+        "category_img": "http://fancyclone.net/dev/media/items/thumb150l/1396253517.jpg"
+      }
+    ]
+  }
+}

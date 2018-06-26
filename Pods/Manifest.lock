@@ -1,0 +1,100 @@
+PODS:
+  - AHKNavigationController (1.3)
+  - DACircularProgress (2.3.1)
+  - EZRatingView (2.0.1)
+  - FirebaseAnalytics (3.9.0):
+    - FirebaseCore (~> 3.6)
+    - FirebaseInstanceID (~> 1.0)
+    - GoogleToolboxForMac/NSData+zlib (~> 2.1)
+  - FirebaseCore (3.6.0):
+    - GoogleToolboxForMac/NSData+zlib (~> 2.1)
+  - FirebaseInstanceID (1.0.10):
+    - FirebaseCore (~> 3.6)
+  - Google (3.1.0):
+    - Google/Core (= 3.1.0)
+  - Google/Core (3.1.0):
+    - FirebaseAnalytics (~> 3.2)
+  - Google/SignIn (3.1.0):
+    - Google/Core
+    - GoogleSignIn (~> 4.0)
+  - GoogleSignIn (4.1.1):
+    - GoogleToolboxForMac/NSDictionary+URLArguments (~> 2.1)
+    - GoogleToolboxForMac/NSString+URLArguments (~> 2.1)
+    - GTMOAuth2 (~> 1.0)
+    - GTMSessionFetcher/Core (~> 1.1)
+  - GoogleToolboxForMac/DebugUtils (2.1.3):
+    - GoogleToolboxForMac/Defines (= 2.1.3)
+  - GoogleToolboxForMac/Defines (2.1.3)
+  - GoogleToolboxForMac/NSData+zlib (2.1.3):
+    - GoogleToolboxForMac/Defines (= 2.1.3)
+  - GoogleToolboxForMac/NSDictionary+URLArguments (2.1.3):
+    - GoogleToolboxForMac/DebugUtils (= 2.1.3)
+    - GoogleToolboxForMac/Defines (= 2.1.3)
+    - GoogleToolboxForMac/NSString+URLArguments (= 2.1.3)
+  - GoogleToolboxForMac/NSString+URLArguments (2.1.3)
+  - GTMOAuth2 (1.1.5):
+    - GTMSessionFetcher (~> 1.1)
+  - GTMSessionFetcher (1.1.12):
+    - GTMSessionFetcher/Full (= 1.1.12)
+  - GTMSessionFetcher/Core (1.1.12)
+  - GTMSessionFetcher/Full (1.1.12):
+    - GTMSessionFetcher/Core (= 1.1.12)
+  - HMSegmentedControl (1.5.4)
+  - IDMPhotoBrowser (1.11.3):
+    - DACircularProgress
+    - pop
+    - SDWebImage (= 4.0.0)
+  - KOPopupView (0.1.0)
+  - MXPagerView (0.1.4)
+  - MXParallaxHeader (0.5.2)
+  - MXSegmentedPager (3.1.0):
+    - HMSegmentedControl (~> 1.5.2)
+    - MXPagerView (~> 0.1.3)
+    - MXParallaxHeader (~> 0.5.2)
+  - pop (1.0.10)
+  - SCTwitter (1.0):
+    - TwitterCore (= 1.11.3)
+    - TwitterKit (= 1.11.3)
+  - SDWebImage (4.0.0):
+    - SDWebImage/Core (= 4.0.0)
+  - SDWebImage/Core (4.0.0)
+  - TwitterCore (1.11.3)
+  - TwitterKit (1.11.3)
+
+DEPENDENCIES:
+  - AHKNavigationController
+  - EZRatingView
+  - Google
+  - Google/SignIn
+  - IDMPhotoBrowser
+  - KOPopupView
+  - MXSegmentedPager (~> 3.1.0)
+  - SCTwitter
+
+SPEC CHECKSUMS:
+  AHKNavigationController: 3b8d5177e1a9c6dde5d16964b97781dea88457bf
+  DACircularProgress: 4dd437c0fc3da5161cb289e07ac449493d41db71
+  EZRatingView: 009292c2363600737b9ff856d652e3d12ff960f6
+  FirebaseAnalytics: e5fe8486efc01bec33f6bf82e2fa9fce4b124052
+  FirebaseCore: 9691ee2ade70c098d7cf92440f4303f16d83ca75
+  FirebaseInstanceID: b9eedd6846fb5e1f0f7279e1deaa7a7e4cf8392e
+  Google: 98da4b1a60ed0beb80a290387a28333406a1eb90
+  GoogleSignIn: 3fdaa34a2ba04dbd7a25d7db39aecb0da98d5bdc
+  GoogleToolboxForMac: 2501e2ad72a52eb3dfe7bd9aee7dad11b858bd20
+  GTMOAuth2: be83fd28d63ae3087e7d351b1f39c1a7e24ab6e7
+  GTMSessionFetcher: ebaa1f79a5366922c1735f1566901f50beba23b7
+  HMSegmentedControl: b25bc4ec44766e073d62c473188fb354ee244b76
+  IDMPhotoBrowser: b96159fe4adb991a844068eb17dab9c0b7d7e51a
+  KOPopupView: c69c0314b192f8a2a04896fa3af95e2d8af6b44f
+  MXPagerView: 8798126c2e629695474eb16cbe1a6da6e0b02915
+  MXParallaxHeader: 5070ba8e8af27ec793c0d32ae82cfd2318e59635
+  MXSegmentedPager: 70bee6e9aeb41205288407d896646165951b89a5
+  pop: 82ca6b068ce9278fd350fd9dd09482a0ce9492e6
+  SCTwitter: edbf6fb6e57fd3fa76a85b4191b21220a93d1ac1
+  SDWebImage: 76a6348bdc74eb5a55dd08a091ef298e56b55e41
+  TwitterCore: ac822b826d021c483569d3d0588645dfa543bee9
+  TwitterKit: 8900e0032610749cebb37a9950f40fd1da606587
+
+PODFILE CHECKSUM: 6eaf7c1e8c16b1f4c3cb0da3a43ab7950c2551e9
+
+COCOAPODS: 1.3.1

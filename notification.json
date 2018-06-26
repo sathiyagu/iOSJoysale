@@ -1,0 +1,128 @@
+{  "status": "true",
+    "result":  [
+                {
+                "type":"admin",
+                "message":"Koala",
+                "event_time":"1416965979",
+                "user_image":"http://fantacyscript.com/media/avatars/thumb70/usrimg.jpg"
+                },
+                {
+                "type":"liked",
+                "user_id":"502",
+                "user_name":"juan-camilo502",
+                "item_id":"760",
+                "item_title":"Koala",
+                "event_time":"1416965979",
+                "user_image":"http://fantacyscript.com/media/avatars/thumb70/usrimg.jpg",
+                "item_image":"http://fantacyscript.com/media/items/thumb150/1401437446.jpg"
+                },
+                {
+                "type":"commented",
+                "user_id":"502",
+                "item_id":"760",
+                "user_name":"juan-camilo502",
+                "item_title":"Koala",
+                "event_time":"1416965979",
+                "user_image":"http://joysalescript.com/beta/item/products/resized/350/287/1467975235.jpg",
+                "item_image":"http://fantacyscript.com/media/items/thumb150/1401437446.jpg"
+                },
+                {
+                "type":"follow",
+                "user_id":"502",
+                "user_name":"juan-camilo502",
+                "event_time":"1416965979",
+                "user_image":"http://fantacyscript.com/media/avatars/thumb70/usrimg.jpg"
+                },
+                {
+                "type":"make_offer",
+                "user_id":"12",
+                "user_name":"Demo",
+                "request_price":"$55",
+                "event_time":"1416965979",
+                "user_image":"http://joysalescript.com/beta/item/products/resized/350/287/1467975235.jpg",
+                "item_id":"760",
+                "item_title":"Koala",
+                "item_image":"http://fantacyscript.com/media/items/thumb150/1401437446.jpg"
+                },
+                {
+                "type":"promotion_active",
+                "user_id":"12",
+                "user_name":"Demo",
+                "paid_amount":"$55",
+                "promotion_days":"30days",
+                "event_time":"1416965979",
+                "user_image":"http://fantacyscript.com/media/avatars/thumb70/usrimg.jpg",
+                "item_id":"760",
+                "item_title":"Koala",
+                "item_image":"http://fantacyscript.com/media/items/thumb150/1401437446.jpg"
+                },
+                {
+                "type":"promotion_expired",
+                "user_id":"12",
+                "user_name":"Demo",
+                "expire_date":"June 30th 2016",
+                "event_time":"1416965979",
+                "user_image":"http://joysalescript.com/beta/item/products/resized/350/287/1467975235.jpg",
+                "item_id":"760",
+                "item_title":"Koala",
+                "item_image":"http://fantacyscript.com/media/items/thumb150/1401437446.jpg"
+                },
+                {
+                "type": "follow",
+                "userId": "29",
+                "user_name": "Saras",
+                "dayAndTime": "1419937744",
+                "userimage": "http://joysalescript.com/beta/item/products/resized/350/281/4c3b5652d02f2b21496644e2d3e24376.jpg"
+                
+                },
+                {
+                "type": "comment",
+                "userId": "17",
+                "orderId": "522",
+                "user_name": "steveambler",
+                "userimage": "http://joysalescript.com/beta/item/products/resized/350/284/1467965246.jpg",
+                "comments": " heyyyy",
+                "dayAndTime": "1419937744",
+                "item_title":"pot"
+                },
+                {
+                "type": "liked",
+                "userId": "17",
+                "orderId": "522",
+                "user_name": "steveambler",
+                "userimage": "http://joysalescript.com/beta/item/products/resized/350/285/1467965324.jpg",
+                "dayAndTime": "1419937744",
+                "item_title":"tap"
+                },
+                {
+                "type": "Exchange",
+                "userId": "17",
+                "orderId": "522",
+                "user_name": "steveambler",
+                "userimage": "http://joysalescript.com/beta/item/products/resized/350/286/1467968019.jpg",
+                "exchangemessage": "demo sent an Exchange Request on product Arts works",
+                "dayAndTime": "1419937744"
+                },
+                {
+                "type": "follow",
+                "userId": "29",
+                "user_name": "muthu29",
+                "dayAndTime": "1419937744",
+                "userimage": "http://joysalescript.com/beta/item/products/resized/350/287/1467975219.jpg"
+                
+                },
+                {
+                "type": "comment",
+                "userId": "17",
+                "orderId": "522",
+                "user_name": "steveambler",
+                "userimage": "http://joysalescript.com/beta/item/products/resized/350/287/1467975235.jpg",
+                "comments": " heyyyy",
+                "dayAndTime": "1419937744",
+                "item_title":"pot"
+                }
+                
+                
+                ]
+    
+}

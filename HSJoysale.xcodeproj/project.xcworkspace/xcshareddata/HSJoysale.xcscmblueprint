@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9f5500b6-2656-4cc2-950b-fd619b5a351c++6457",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "9f5500b6-2656-4cc2-950b-fd619b5a351c++6457" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9f5500b6-2656-4cc2-950b-fd619b5a351c++6457" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "FF370DD0-7ECE-4066-9FAD-343EAED668C4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9f5500b6-2656-4cc2-950b-fd619b5a351c++6457" : "IOS_Joysale\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "HSJoysale",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "HSJoysale.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/104.131.252.112:18080\/svn\/IOS_Joysale",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9f5500b6-2656-4cc2-950b-fd619b5a351c++6457"
+    }
+  ]
+}

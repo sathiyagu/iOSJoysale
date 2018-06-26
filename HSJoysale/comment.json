@@ -1,0 +1,23 @@
+{
+  "status": " true",
+  "result": {
+    "comments": [
+      {
+        "comment_id": "145",
+        "comment": "hai good",
+        "user_id": "25",
+        "user_img": "http://fancyclone.net/dev/media/items/thumb150/1396253517.jpg",
+        "user_name": "asik",
+        "comment_time": "2 hours ago"
+      },
+      {
+        "comment_id": "142",
+        "comment": "hai this product is so good to use ",
+        "user_id": "25",
+        "user_img": "http://fancyclone.net/dev/media/items/thumb150/1396253517.jpg",
+        "user_name": "asik",
+        "comment_time": "2 hours ago"
+      }
+    ]
+  }
+}

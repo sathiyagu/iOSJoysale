@@ -1,0 +1,28 @@
+{
+  "status": "true",
+  "result": {
+    "notifications": [
+      {
+        "type": "like",
+        "user_id": "502",
+        "item_id": "760",
+        "user_name": "juan-camilo502",
+        "item_title": "Koala",
+        "event_time": "1416965979",
+        "user_image": "http://fantacyscript.com/media/avatars/thumb70/usrimg.jpg",
+        "item_image": "http://fantacyscript.com/media/items/thumb150/1401437446.jpg"
+      },
+      {
+        "type": "comment",
+        "user_id": "502",
+        "item_id": "760",
+        "user_name": "juan-camilo502",
+        "item_title": "Koala",
+        "comment": "Nice product",
+        "event_time": "1416965979",
+        "user_image": "http://fantacyscript.com/media/avatars/thumb70/usrimg.jpg",
+        "item_image": "http://fantacyscript.com/media/items/thumb150/1401437446.jpg"
+      }
+    ]
+  }
+}

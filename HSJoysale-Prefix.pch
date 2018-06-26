@@ -1,0 +1,74 @@
+//
+//  HSJoysale-Prefix.pch
+//  HSJoysale
+//
+//  Created by Hitasoft on 04/12/15.
+//  Copyright © 2015 Hitasoft. All rights reserved.
+//
+
+#ifndef HSJoysale_Prefix_pch
+#define HSJoysale_Prefix_pch
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iOS SDK 3.0 and later."
+#endif
+
+#ifndef is_iPad
+#define is_iPad UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPad
+#endif
+#ifndef is_iPhone5
+#define is_iPhone5 ( [ [ UIScreen mainScreen ] bounds ].size.height == 568)
+#endif
+#ifndef isAboveiOSVersion7
+#define isAboveiOSVersion7 ([[[UIDevice currentDevice] systemVersion] floatValue] > 6.9)
+#endif
+#ifndef is_iPhone6
+#define is_iPhone6 ( [ [ UIScreen mainScreen ] bounds ].size.height == 667)
+#endif
+
+#ifndef IS_OS_8_OR_LATER
+#define IS_OS_8_OR_LATER ([[[UIDevice currentDevice] systemVersion] floatValue] >= 8.0)
+#endif
+
+
+#ifndef is_iPhone6P
+#define is_iPhone6P ( [ [ UIScreen mainScreen ] bounds ].size.height == 736)
+#endif
+
+
+
+#ifndef is_iPhoneX
+#define is_iPhoneX ( [ [ UIScreen mainScreen ] bounds ].size.height == 812.0f)
+#endif
+
+#define ArrayClass [NSArray class]
+#define DictionaryClass [NSDictionary class]
+
+
+
+
+
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import "Utility.h"
+#import "Config.h"
+#import "NSData+Base64.h"
+#import "UIImageView+WebCache.h"
+#import <QuartzCore/QuartzCore.h>
+#import "CGSuggestionSizeMake.h"
+#import "AppDelegate.h"
+#import "DefensiveClass.h"
+#import "ApiControllerServiceProxy.h"
+#import "CustomInfiniteIndicator.h"
+#import "UIScrollView+InfiniteScroll.h"
+#import "BLLoader.h"
+#import "SocketIOPacket.h"
+#import "UINavigationBar+Helper.h"
+#import "AHKNavigationController.h"
+#import "HSUtility.h"
+
+#endif
+#endif /* HSJoysale_Prefix_pch */

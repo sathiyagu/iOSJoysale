@@ -1,0 +1,122 @@
+{
+    "status": "true",
+    "currency": "$",
+    "App Name": "Happy Sale",
+    "result": {
+        "items": [
+                  {
+                  "id": "951",
+                  "item_title": "HappySaleProduct",
+                  "item_image": [
+                                 {
+                                 "resolution_low": "http://www.digeeu.com/blog_images/Men_How_to_Dress_for_A_Date.jpg",
+                                 "resolution_medium": "http://www.digeeu.com/blog_images/Men_How_to_Dress_for_A_Date.jpg",
+                                 "resolution_high": "http://www.digeeu.com/blog_images/Men_How_to_Dress_for_A_Date.jpg"
+                                 },
+                                 {
+                                 "resolution_low": "http://www.digeeu.com/blog_images/Men_How_to_Dress_for_A_Date.jpg",
+                                 "resolution_medium": "http://www.digeeu.com/blog_images/Men_How_to_Dress_for_A_Date.jpg",
+                                 "resolution_high": "http://www.digeeu.com/blog_images/Men_How_to_Dress_for_A_Date.jpg"
+                                 }
+                                 ],
+                  "item_price": "1000",
+                  "item_addedtime": "12399319021",
+                  "item_noofviews": "10",
+                  "item_tags": [
+                                {
+                                "tag_name": "#tag one"
+                                },
+                                {
+                                "tag_name": "#tag new"
+                                },
+                                {
+                                "tag_name": "#tag two"
+                                }
+                                ],
+                  "item_description": "This is the dummy discription for this item",
+                  "no_of_comments": "10",
+                  "no_of_fav": "10",
+                  "item_swap": "yes",
+                  "item_buy": "yes",
+                  "item_contactme": "yes",
+                  "item_comment": [
+                                   {
+                                   "comment_id": "12",
+                                   "comment": "Hai HS Welcomes you",
+                                   "commneted_user": "btmani",
+                                   "commneted_userid": "1"
+                                   },
+                                   {
+                                   "comment_id": "12",
+                                   "comment": "Hai HS Welcomes you",
+                                   "commneted_user": "btmani",
+                                   "commneted_userid": "1"
+                                   }
+                                   ],
+                  "user_details": [
+                                   {
+                                   "user_id": "1",
+                                   "user_name": "mani",
+                                   "user_image": "http://www.digeeu.com/blog_images/Men_How_to_Dress_for_A_Date.jpg",
+                                   "user_address": "Madurai",
+                                   "user_phnum": "9898989898",
+                                   "user_emailid": "a@a.com"
+                                   }
+                                   ]
+                  },{
+                  "id": "91",
+                  "item_image": [
+                                 {
+                                 "resolution_low": "http://www.digeeu.com/blog_images/Men_How_to_Dress_for_A_Date.jpg",
+                                 "resolution_medium": "http://www.digeeu.com/blog_images/Men_How_to_Dress_for_A_Date.jpg",
+                                 "resolution_high": "http://www.digeeu.com/blog_images/Men_How_to_Dress_for_A_Date.jpg"
+                                 },
+                                 {
+                                 "resolution_low": "http://www.digeeu.com/blog_images/Men_How_to_Dress_for_A_Date.jpg",
+                                 "resolution_medium": "http://www.digeeu.com/blog_images/Men_How_to_Dress_for_A_Date.jpg",
+                                 "resolution_high": "http://www.digeeu.com/blog_images/Men_How_to_Dress_for_A_Date.jpg"
+                                 }
+                                 ],
+                  "item_price": "1000",
+                  "item_addedtime": "12399319021",
+                  "item_noofviews": "10",
+                  "item_tags": [
+                                {
+                                "tag_name": "<null>"
+                                },
+                                {
+                                "tag_name": "#tag new"
+                                },
+                                {
+                                "tag_name": "#tag two"
+                                }
+                                ],
+                  "item_description": "This is the dummy discription for this item",
+                  "no_of_comments": "10",
+                  "no_of_fav": "10",
+                  "item_swap": "yes",
+                  "item_buy": "yes",
+                  "item_contactme": "yes",
+                  "item_comment": [
+                                   {
+                                   "comment_id": "12",
+                                   "commneted_user": "btmani",
+                                   "commneted_userid": "1"
+                                   },
+                                   {
+                                   "commneted_userid": "1"
+                                   }
+                                   ],
+                  "user_details": [
+                                   {
+                                   "user_id": "1",
+                                   "user_name": "mani",
+                                   "user_image": "http://www.digeeu.com/blog_images/Men_How_to_Dress_for_A_Date.jpg",
+                                   "user_phnum": "9898989898",
+                                   "user_emailid": "a@a.com"
+                                   }
+                                   ]
+                  }
+                  ]
+    }
+}
